@@ -4,7 +4,7 @@
 
 ### 🚀 **[View Live Deployment: Experience the Interactive Simulation](https://controlsolarsystemusinghands.netlify.app/)**
 
-![Space Exploration HUD](solar_system_hud.png)
+![Space Exploration HUD](assets/solar_system_hud.png)
 
 An immersive 3D simulation of our Solar System controlled entirely by **hand gestures**.
 
@@ -102,5 +102,4 @@ Tests are **browser-independent** — they validate the pure JS logic without Th
 Go to Settings → Pages → Deploy from `main` branch → root folder.
 
 ## 📸 Visual Proof
-![Start Menu](start_menu.png)
-![Telemetry HUD](solar_system_hud.png)
+![Telemetry HUD](assets/solar_system_hud.png)
