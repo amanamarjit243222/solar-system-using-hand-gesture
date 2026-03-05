@@ -2,10 +2,11 @@
     "name": "solar-system-hand-gesture-explorer",
     "version": "1.2.0",
     "description": "An immersive 3D simulation of our Solar System controlled by hand gestures using Three.js and MediaPipe.",
+    "type": "module",
     "main": "src/main.js",
     "scripts": {
         "start": "python -m http.server 8000",
-        "test": "jest --testPathPattern=tests/"
+        "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --testPathPattern=tests/"
     },
     "keywords": [
         "threejs",

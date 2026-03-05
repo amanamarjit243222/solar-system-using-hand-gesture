@@ -8,6 +8,12 @@
 
 An immersive 3D simulation of our Solar System controlled entirely by **hand gestures**.
 
+## 🛡️ Security & Privacy Architecture
+This project implements a **zero-trust biometric philosophy**:
+- **Local ML Inference**: All hand-tracking and gesture recognition is performed locally in the user's browser via MediaPipe.
+- **Zero Data Transmission**: Video frames from the webcam are processed in volatile memory and immediately discarded. No images or biometric data are ever sent to a server.
+- **Air-Gapped Potential**: The application logic and ML models can be fully self-hosted for high-security environments.
+
 ## 🌟 The "Wow" Factor
 This project bridges the gap between digital content and physical space. By combining **Three.js** for high-fidelity 3D rendering with **MediaPipe's** machine learning for real-time hand-tracking, it creates a "Minority Report" style interface for space exploration.
 
