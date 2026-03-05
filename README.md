@@ -45,7 +45,8 @@ To run this project locally:
 
 ## 📸 Screenshots
 
-*(Add screenshots or GIFs here showing the 3D solar system and the gesture HUD)*
+![Start Menu](start_menu.png)
+![Telemetry HUD](solar_system_hud.png)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
