@@ -2,7 +2,9 @@
 
 ### 🚀 **[View Live Deployment: Experience the Interactive Simulation](https://controlsolarsystemusinghands.netlify.app/)**
 
-An immersive 3D simulation of our Solar System controlled entirely by **hand gestures**. No mouse, no keyboard—just your hands in the air.
+![Space Exploration HUD](solar_system_hud.png)
+
+An immersive 3D simulation of our Solar System controlled entirely by **hand gestures**.
 
 ## 🌟 The "Wow" Factor
 This project bridges the gap between digital content and physical space. By combining **Three.js** for high-fidelity 3D rendering with **MediaPipe's** machine learning for real-time hand-tracking, it creates a "Minority Report" style interface for space exploration.
